@@ -1,7 +1,8 @@
 # 機器學習第二組簡報與程式碼
 >> 大家好，我們是機器學習第二組組員，以下是我們專案的簡報與程式碼!!
 # 第一次進度報告簡報
->https://github.com/MachineLearningGroup2/Project/blob/main/%E7%B0%A1%E5%A0%B1/1.pdf
+>https://github.com/MachineLearningGroup2/Project/blob/main/%E7%B0%A1%E5%A0%B1/%E9%80%B2%E5%BA%A6%E5%A0%B1%E5%91%8A%E7%B0%A1%E5%A0%B1.pdf
+>
 
 # 程式碼列表如下
 ## Data Preprocessing | EDA | PCA | Kmeans | RandomForest 
