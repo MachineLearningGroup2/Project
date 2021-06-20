@@ -13,3 +13,7 @@
 >>https://github.com/MachineLearningGroup2/Project/blob/main/code.ipynb
 >>https://github.com/MachineLearningGroup2/Project/blob/main/%E7%9B%B8%E9%97%9C%E4%BF%82%E6%95%B8%E5%9C%96.ipynb
 >>https://github.com/MachineLearningGroup2/Project/blob/main/RandomForest.ipynb
+
+
+## 如果您無法開ipynb ，以下是開啟ipynb 的網址
+https://nbviewer.jupyter.org/
