@@ -19,7 +19,7 @@
 
 
 # 專題報告影片:
->>15分鐘:https://www.youtube.com/watch?v=czkV-rTjMz
+>>15分鐘:https://www.youtube.com/watch?v=czkV-rTjMzc
 
 >>3分鐘:https://www.youtube.com/watch?v=-ay3OH8WQlY
 
