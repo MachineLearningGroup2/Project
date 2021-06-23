@@ -59,7 +59,7 @@
 
 >>[Notion會議記錄](https://github.com/MachineLearningGroup2/Project/blob/main/%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E5%B0%88%E6%A1%88%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf "link")
 
-https://github.com/MachineLearningGroup2/Project/tree/main/%E5%8F%83%E8%80%83%E6%96%87%E7%8D%BB
+
 
 # 資料
 >>[資料](https://github.com/MachineLearningGroup2/Project/tree/main/%E8%B3%87%E6%96%99 "link")
