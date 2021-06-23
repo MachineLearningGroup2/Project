@@ -56,6 +56,7 @@
 
 # 會議紀錄
 >>[會議記錄](https://github.com/MachineLearningGroup2/Project/tree/main/%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84 "link")
+
 >>[Notion會議記錄](https://www.notion.so/f783c96681574aef842c00efb28c73c3 "link")
 
 
