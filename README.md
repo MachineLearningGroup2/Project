@@ -18,5 +18,12 @@
 >>https://github.com/MachineLearningGroup2/Project/blob/main/%E7%A8%8B%E5%BC%8F%E7%A2%BC/%E7%9B%B8%E9%97%9C%E4%BF%82%E6%95%B8%E5%9C%96.ipynb
 
 
+# 專題報告影片:
+>>15分鐘:https://www.youtube.com/watch?v=czkV-rTjMz
+>>3分鐘:https://www.youtube.com/watch?v=-ay3OH8WQlY
+
+
+
+
 ## 如果您無法開ipynb ，以下是開啟ipynb 的網址
 https://nbviewer.jupyter.org/
