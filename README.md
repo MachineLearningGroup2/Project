@@ -1,5 +1,6 @@
 # 機器學習第二組簡報與程式碼
 >> 大家好，我們是機器學習第二組組員，以下是我們專案的簡報與程式碼!!
+>> 指導老師：巨資 蔡芸琤  經濟 ：林巧涵
 
 # 組員:
 
@@ -44,9 +45,10 @@
 
 
 # 專題報告影片:
->>15分鐘:https://www.youtube.com/watch?v=czkV-rTjMzc
+>>[15分鐘](https://www.youtube.com/watch?v=czkV-rTjMzc "link")
 
->>3分鐘:https://www.youtube.com/watch?v=-ay3OH8WQlY
+>>[3分鐘](https://www.youtube.com/watch?v=-ay3OH8WQlY "link")
+
 
 
 
