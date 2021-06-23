@@ -55,6 +55,8 @@
 >>[會議記錄](https://github.com/MachineLearningGroup2/Project/tree/main/%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84 "link")
 
 
+# 資料
+>>[資料](https://github.com/MachineLearningGroup2/Project/tree/main/%E8%B3%87%E6%96%99 "link")
 
 
 ## 如果您無法開ipynb ，以下是開啟ipynb 的網址
