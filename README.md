@@ -51,6 +51,8 @@
 
 >>[3分鐘](https://www.youtube.com/watch?v=-ay3OH8WQlY "link")
 
+# 會議紀錄
+>>[會議記錄](https://github.com/MachineLearningGroup2/Project/tree/main/%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84 "link")
 
 
 
