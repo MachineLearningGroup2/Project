@@ -11,6 +11,8 @@
 >> 09351016 李冠瑩 經碩一
 # 第一次進度報告簡報
 >https://github.com/MachineLearningGroup2/Project/blob/main/%E7%B0%A1%E5%A0%B1/%E9%80%B2%E5%BA%A6%E5%A0%B1%E5%91%8A%E7%B0%A1%E5%A0%B1.pdf
+# 第二次進度報告簡報
+>https://github.com/MachineLearningGroup2/Project/blob/main/%E7%B0%A1%E5%A0%B1/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E9%80%B2%E5%BA%A6%E5%A0%B1%E5%91%8A.pdf
 # 期末報告簡報
 >https://github.com/MachineLearningGroup2/Project/blob/main/%E7%B0%A1%E5%A0%B1/%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A%E7%B0%A1%E5%A0%B1.pdf
 
