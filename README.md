@@ -3,6 +3,7 @@
 
 # 組員:
 >> 09370013 黃碩彥 巨資碩一
+>> 09351081 劉昊東 經碩一
 >> 
 # 第一次進度報告簡報
 >https://github.com/MachineLearningGroup2/Project/blob/main/%E7%B0%A1%E5%A0%B1/%E9%80%B2%E5%BA%A6%E5%A0%B1%E5%91%8A%E7%B0%A1%E5%A0%B1.pdf
